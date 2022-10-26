@@ -1,0 +1,15 @@
+﻿  lab2.2.cpp
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(10,16): error C3646: id: неизвестный спецификатор переопределения
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(19,46): error C2065: employee_id: необъявленный идентификатор
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(28,9): error C2039: "employee_id": не является членом "employee".
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(6): message : см. объявление "employee"
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(31,7): error C2039: "employee_id": не является членом "employee".
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(6): message : см. объявление "employee"
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(27,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Для учёбы\ООП\lab2\lab2\lab2.2.cpp(30,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lab2.1.cpp
+F:\Для учёбы\ООП\lab2\lab2\lab2.1.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Для учёбы\ООП\lab2\lab2\lab2.1.cpp(22,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Для учёбы\ООП\lab2\lab2\lab2.1.cpp(25,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
